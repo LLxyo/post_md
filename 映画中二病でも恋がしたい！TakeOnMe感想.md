@@ -3,7 +3,9 @@ title: "映画 中二病でも恋がしたい！Take On Me感想"
 date: 2020-04-09T17:22:35+09:00
 draft: false
 categories: ["anime","movie"]
-tags: ["中二病でも恋がしたい！","学園","ラブコメ","青春","京アニ"]
+series: ["中二病でも恋がしたい！"]
+brand: ["京アニ"]
+genre: ["恋愛","青春"]
 share: true
 ---
 **変わるか変わらないのかそれに何が必要なのか**  

@@ -3,7 +3,9 @@ title: "Fate/stay night UBW感想"
 date: 2020-03-25T01:49:51+09:00
 draft: false
 categories: ["anime"]
-tags: ["Fate","ufotable","type-moon","ダークファンタジー"]
+series: ["Fate"]
+brand: ["ufotable","type-moon"]
+genre: ["ダークファンタジー","バトルアクション"]
 share: true
 ---
 **衛宮くん...あのさぁ** 
