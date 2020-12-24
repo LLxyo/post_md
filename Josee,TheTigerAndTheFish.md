@@ -1,5 +1,5 @@
 ---
-title: "ジョゼと虎と魚たち"
+title: "『ジョゼと虎と魚たち』を薦める感想"
 date: 2020-12-24T00:45:41+09:00
 draft: false
 categories: ["anime","movie","Advent Calendar"]
