@@ -5,7 +5,7 @@ draft: false
 categories: ["anime"]
 series: ["プリンセス・プリンシパル"]
 brand: [""]
-genre: ["百合","スパイ"]
+genre: ["百合","スパイ","スチームパンク"]
 share: true
 ---
 ## 不条理で悲しきに運命の縛られた少女たち
