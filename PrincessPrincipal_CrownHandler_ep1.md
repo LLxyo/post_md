@@ -1,5 +1,5 @@
 ---
-title: "プリンセス・プリンシパル Crown Handler 第1章"
+title: "プリンセス・プリンシパル Crown Handler 第1章 感想"
 date: 2021-02-15T17:35:18+09:00
 draft: false
 categories: ["anime","movie"]
