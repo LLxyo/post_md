@@ -1,5 +1,5 @@
 ---
-title: "ラブライブ! 感想"
+title: "ラブライブ! 感想　μ´ｓの輝きと儚さ"
 date: 2021-06-07T17:53:56+09:00
 draft: false
 categories: ["anime"]
