@@ -7,6 +7,8 @@ series: ["羅小黒戦記"]
 brand: ["寒木春華スタジオ"]
 genre: ["ファンタジー","中国アニメ"]
 share: true
+images: ["post/the_legend_of_hei_movie/image0 (1).jpg"]
+eyecatch: "https://llxyo.github.io/post/the_legend_of_hei_movie/image0 (1).jpg"
 ---
 まず、中国風の世界観、特に自然の描き方に特有の雰囲気があり、新鮮でおもしろかった。  
 戦闘シーンもスピード感がすごくてどこかufotableっぽさを感じた。  

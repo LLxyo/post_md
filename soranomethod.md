@@ -5,7 +5,7 @@ draft: false
 categories: ["anime"]
 series: ["天体のメソッド"]
 brand: [""]
-genre: ["青春"]
+genre: ["青春","出会いと別れ"]
 share: true
 ---
 1話で感じた穏やかな日常を淡く包み込む切なさの予覚は間違っていなかった。  

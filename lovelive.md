@@ -7,6 +7,8 @@ series: ["love live"]
 brand: [""]
 genre: ["青春","アイドル","音楽"]
 share: true
+images: ["post/lovelive/image2.jpeg"]
+eyecatch: "https://llxyo.github.io/post/lovelive/image2.jpeg"
 ---
 今更ラブライブ!シリーズのアニメを全部見た。  
 

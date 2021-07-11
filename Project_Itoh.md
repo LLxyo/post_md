@@ -7,6 +7,8 @@ series: ["Project Itoh"]
 brand: ["伊藤計劃"]
 genre: ["SF","ファンタジー","社会派","訓話"]
 share: true
+images: ["post/project_itoh/image5.jpg"]
+eyecatch: "https://llxyo.github.io/post/project_itoh/image5.jpg"
 ---
 ## ハーモニー
 

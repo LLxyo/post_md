@@ -3,10 +3,12 @@ title: "あわしまマリンパークに行こうとしたら、うっかりラ
 date: 2021-03-21T14:27:22+09:00
 draft: false
 categories: ["photolog"]
-series: ["ラブライブ"]
+series: ["love love"]
 brand: [""]
 genre: [""]
 share: true
+images: ["post/trip_in_utiura_awashima/IMG_0709.JPG"]
+eyecatch: "https://llxyo.github.io/post/trip_in_utiura_awashima/IMG_0709.JPG"
 ---
 ## 淡島
 ### あわしま連絡船
